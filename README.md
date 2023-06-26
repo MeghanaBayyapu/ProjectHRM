@@ -9,6 +9,7 @@ Project Link - https://happy-coast-0be369300.3.azurestaticapps.net /Project demo
 Azure technologies used for Project:
 
 -Static web apps
+
 -Health bot
 
 Features and Functionalities:
