@@ -22,7 +22,9 @@ Features and Functionalities:
 - User can know about health information through this website.
 - Included the message form to increase the scope of improvement 
 
- Screenshots
+Screenshots:
+
+
 
 Home-
 ![Screenshot (5)](https://github.com/MeghanaBayyapu/ProjectHRM/assets/108140348/7a473fec-55fc-4165-98df-eff33c52a379)
@@ -34,6 +36,8 @@ Home-
 ![Screenshot (11)](https://github.com/MeghanaBayyapu/ProjectHRM/assets/108140348/3f46cb44-e920-46b3-8e9e-18779ef8e049)
 ![Screenshot (12)](https://github.com/MeghanaBayyapu/ProjectHRM/assets/108140348/3e341e0a-6f9a-4eb4-afd9-4d3dffd5af5a)
 
+
+  
  About -
 ![Screenshot (13)](https://github.com/MeghanaBayyapu/ProjectHRM/assets/108140348/72f54645-f7c4-4ed7-ba04-ec8e4c00a226)
 ![Screenshot (14)](https://github.com/MeghanaBayyapu/ProjectHRM/assets/108140348/f14bc34e-7023-4011-850a-64c4a4933554)
@@ -47,10 +51,14 @@ Services -
 ![Screenshot (20)](https://github.com/MeghanaBayyapu/ProjectHRM/assets/108140348/8ea27f06-53f8-4167-b43c-0094d5bf7938)
 ![Screenshot (21)](https://github.com/MeghanaBayyapu/ProjectHRM/assets/108140348/73f087cb-a6ec-494f-a5fd-e9985d34584c)
 
+
+
 Contact-
 ![Screenshot (22)](https://github.com/MeghanaBayyapu/ProjectHRM/assets/108140348/67f4d16f-377f-44d5-8bb0-5e3c2325c718)
 ![Screenshot (23)](https://github.com/MeghanaBayyapu/ProjectHRM/assets/108140348/b43b181b-6729-4563-ac58-cfede57f63bd)
 ![Screenshot (24)](https://github.com/MeghanaBayyapu/ProjectHRM/assets/108140348/a8c1b89c-dc76-4ad4-bf57-ddf5736b559b)
+
+
 
 Tech Stack 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
