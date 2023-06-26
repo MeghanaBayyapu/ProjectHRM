@@ -14,7 +14,8 @@ Azure technologies used for Project:
 
 Features and Functionalities:
 
--Interactive and responsive UI.
+
+- Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About,Healthbot ,Serices, Contact and health related information etc.
